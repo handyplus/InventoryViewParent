@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
     <version>1.0.0</version>
     <url>https://github.com/handyplus/InventoryViewLib</url>
-    <name>InventoryViewLib</name>
+    <name>InventoryViewParent</name>
     <description>兼容InventoryView框架</description>
 
     <modules>
