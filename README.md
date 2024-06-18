@@ -30,10 +30,10 @@ Caused by: java.lang.IncompatibleClassChangeError: Found class org.bukkit.invent
 
 2. 使用示例 详见[JAVADOC](https://handyplus.github.io/InventoryViewParent/)
 
-    * 获取InventoryHolder  
+    * 获取InventoryHolder    
       InventoryViewUtil.getHolder(Player player);
 
-    * 获取InventoryType
+    * 获取InventoryType  
       InventoryViewUtil.getInventoryType(InventoryClickEvent event);
 
 ## 建议
