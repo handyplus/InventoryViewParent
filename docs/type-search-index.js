@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"cn.handyplus.lib.inventory.view","l":"InventoryViewUtil"},{"l":"所有类和接口","u":"allclasses-index.html"}];updateSearchResults();
