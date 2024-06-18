@@ -11,7 +11,7 @@ import org.bukkit.inventory.InventoryHolder;
  * @author handy
  * @since 1.0.0
  */
-class InventoryViewOldUtil {
+public class InventoryViewOldUtil {
 
     /**
      * 获取InventoryHolder
